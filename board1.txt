@@ -1,0 +1,16 @@
+15 15
+               
+               
+     BBBBB     
+  B    B    B  
+  B    B    B  
+  BBB     BBB  
+  B         B  
+  B BBBBBBB B  
+       B       
+    B  B  B    
+               
+    B BBB B    
+    B  B  B    
+ BBBBB   BBBBB 
+               
